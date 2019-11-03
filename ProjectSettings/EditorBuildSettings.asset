@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Main/Scene Selector.unity
+    guid: a481b0d16f989b945aad29033f85a978
+  - enabled: 1
+    path: Assets/Classroom/Classroom.unity
+    guid: a7c64648bdaebc040ba9452d642e78c7
+  - enabled: 0
+    path: Assets/Bathroom/Bathroom 1.unity
+    guid: 443bb015d3e1c6e49a960f4332e964fa
+  - enabled: 1
+    path: Assets/Bathroom/Bathroom.unity
+    guid: 48fba9ffd3a439d4595ba1a797301624
+  m_configObjects: {}
